@@ -7,3 +7,4 @@ This exercise builds on JavaScript 01 by using localstorage to retain some data 
 You can [view this page here](https://ctec3905.github.io/javascript_02_localstorage/).
 
 Nicholas Elpidorou
+asdfasf
